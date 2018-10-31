@@ -13,7 +13,7 @@
 
 Name:		timidity-patch-ntonyx
 Version:	20161015
-Release:	1
+Release:	2
 Summary:	Patch set for MIDI audio synthesis
 Group:		Sound
 License:	Public Domain
