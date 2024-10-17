@@ -17,7 +17,7 @@ Release:	3
 Summary:	Patch set for MIDI audio synthesis
 Group:		Sound
 License:	Public Domain
-URL:		http://ntonyx.com/sf_f.htm
+URL:		https://ntonyx.com/sf_f.htm
 Source0:	http://ntonyx.com/soft/32MbGMStereo.sf2
 BuildArch:	noarch
 Provides:	timidity-instruments = %{patch_pkg_version}
